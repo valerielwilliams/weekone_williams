@@ -59,6 +59,10 @@ li {
   flex-direction: column;
 }
 
+.card_image img {
+    max-width: 100%;
+}
+
 .card:last-child {
   margin-right: 0;
 }
