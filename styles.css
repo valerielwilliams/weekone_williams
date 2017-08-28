@@ -39,6 +39,7 @@ li {
 
 .content {
   padding: 30px;
+  line-height: 2;
   grid-area: content;
 }
 
