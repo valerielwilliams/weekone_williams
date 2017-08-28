@@ -66,11 +66,11 @@ li {
 }
 
 .card_image img {
-    max-width: 100%;
+    width: 100%;
 }
 
 .cat_3 {
-    height: 175px;
+    height: 190px;
     object-fit: cover;
 }
 
