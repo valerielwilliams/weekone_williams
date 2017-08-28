@@ -63,6 +63,11 @@ li {
     max-width: 100%;
 }
 
+.cat_3 {
+    height: 175px;
+    object-fit: cover;
+}
+
 .card:last-child {
   margin-right: 0;
 }
