@@ -45,6 +45,10 @@ li {
 .card_wrapper {
   display: flex;
   grid-area: card_wrapper;
+  background: linear-gradient(
+      #d8d8d8 50%,
+      #fff 50%
+      );
 }
 
 .card {
